@@ -12,6 +12,7 @@
 2. `docs/member-a-topology.md`：A 同学负责拓扑建模时读这个。
 3. `docs/member-b-algorithm.md`：B 同学，也就是算法负责人，读这个。
 4. `docs/beginner-guide.md`：零基础入门说明，解释未来每个文件是干什么的，以及最后怎么展示结果。
+5. `docs/benes-8x8-learning-plan.md`：算法负责人第一阶段的 8x8 Benes、无权最短路径和 BFS 学习计划。
 
 ## 暂定项目结构
 
@@ -43,6 +44,7 @@ da_chuang/
 `-- docs/
     |-- member-a-topology.md
     |-- member-b-algorithm.md
+    |-- benes-8x8-learning-plan.md
     `-- beginner-guide.md
 ```
 
